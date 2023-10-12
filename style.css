@@ -1,0 +1,57 @@
+.main-photo{
+    background-image: url(https://herbiand.az/panel/uploads/63170555.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 610px;
+    height: 500px;
+    position: relative;
+    margin-top: 15vh;
+    background-position-x: -100px;
+}
+.text
+{
+    background-color:#262626 ;
+    height: 90px;
+    width: 610px;
+    position: absolute;
+    bottom: 0px;
+    padding: 15px 20px;
+}
+.text p{
+    color: white;
+    font-size: 23px;
+    font-family: 'Gabarito', sans-serif;
+}
+.date{
+    background-color: #29909D;
+    opacity: 85%;
+    width: 220px;
+    height: 40px;
+    position: absolute;
+    bottom: 90px;
+    padding: 8px 0px 8px 5px;
+}
+.date span{
+    color: white; 
+    font-size: 20px;
+    font-family: 'Gabarito', sans-serif;
+    margin-left: 10px;
+}
+.navigation-icons{
+    color: white;
+    font-size: 60px;
+    text-shadow: 1px 1px 6px rgb(30, 29, 29);
+}
+.fa-chevron-left{
+    position: absolute;
+    top: 40%;
+    left: 20px;
+}
+.fa-chevron-right{
+    position: absolute;
+    top: 40%;
+    right: 20px;
+}
+.num{
+    padding-left: 18px;
+}
